@@ -1,10 +1,18 @@
 {
-    "require": {
-        "m.s/religous_times": "^1.0"
-    },
+    "name": "m.s/religous_times",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MS\\ReligousTimes\\": "vendor/m.s/religous_times/src/"
+            "MS\\ReligousTimes\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "mohammad",
+            "email": "mypc264fm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
