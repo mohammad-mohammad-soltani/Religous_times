@@ -1,0 +1,45 @@
+{
+    "packages": [
+        {
+            "name": "m.s/religous_times",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mohammad-mohammad-soltani/ReligousTimes.git",
+                "reference": "a775313900694a687fecfdd1d61fd1a8cde4f51a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mohammad-mohammad-soltani/ReligousTimes/zipball/a775313900694a687fecfdd1d61fd1a8cde4f51a",
+                "reference": "a775313900694a687fecfdd1d61fd1a8cde4f51a",
+                "shasum": ""
+            },
+            "time": "2025-01-28T03:35:54+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "MS\\ReligousTimes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mohammad",
+                    "email": "mypc264fm@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/mohammad-mohammad-soltani/ReligousTimes/issues",
+                "source": "https://github.com/mohammad-mohammad-soltani/ReligousTimes/tree/v1.0.0"
+            },
+            "install-path": "../m.s/religous_times"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

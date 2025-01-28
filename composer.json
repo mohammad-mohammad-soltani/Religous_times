@@ -1,0 +1,10 @@
+{
+    "require": {
+        "m.s/religous_times": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MS\\ReligousTimes\\": "vendor/m.s/religous_times/src/"
+        }
+    }
+}

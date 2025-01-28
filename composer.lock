@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "af92422bfd8d2c8b69e9576e17e0397a",
+    "packages": [
+        {
+            "name": "m.s/religous_times",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mohammad-mohammad-soltani/ReligousTimes.git",
+                "reference": "a775313900694a687fecfdd1d61fd1a8cde4f51a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mohammad-mohammad-soltani/ReligousTimes/zipball/a775313900694a687fecfdd1d61fd1a8cde4f51a",
+                "reference": "a775313900694a687fecfdd1d61fd1a8cde4f51a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MS\\ReligousTimes\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "mohammad",
+                    "email": "mypc264fm@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/mohammad-mohammad-soltani/ReligousTimes/issues",
+                "source": "https://github.com/mohammad-mohammad-soltani/ReligousTimes/tree/v1.0.0"
+            },
+            "time": "2025-01-28T03:35:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
